@@ -1,4 +1,4 @@
-# 🤖 Jarvis AI Assistant
+# 🤖 Jarvis AI Voice Assistant
 
 A Python-based AI voice assistant powered by Speech Recognition, Text-to-Speech, and Google Gemini AI. Jarvis can recognize voice commands, answer user queries, open websites like YouTube, Google, and LinkedIn, and play songs from a custom music library.
 
@@ -20,4 +20,4 @@ A Python-based AI voice assistant powered by Speech Recognition, Text-to-Speech,
 
 ---
 
-**Jarvis AI Assistant showcases the integration of speech recognition, artificial intelligence, and voice automation to deliver a simple and interactive hands-free desktop assistant.**
+**Jarvis AI Voice Assistant showcases the integration of speech recognition, artificial intelligence, and voice automation to deliver a simple and interactive hands-free desktop assistant.**
